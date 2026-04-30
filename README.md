@@ -4,7 +4,7 @@ A production-ready, full-featured tech e-commerce web application built with Rea
 
 ## Live Demo
 
-**[techhub.vercel.app](https://techhub.vercel.app)** *(update this link after deploying)*
+**[techhub-kappa.vercel.app](https://techhub-kappa.vercel.app)**
 
 ---
 
