@@ -64,7 +64,7 @@ export default function ForgotPassword() {
                   label="Email address"
                   type="email"
                   placeholder="you@example.com"
-                  leftIcon={<Mail className="w-4 h-4" />}
+                  icon={<Mail className="w-4 h-4" />}
                   error={errors.email?.message}
                   {...register('email')}
                 />

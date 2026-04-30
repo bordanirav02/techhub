@@ -91,7 +91,7 @@ export default function Addresses() {
             <div key={key}>
               <label className="text-xs font-medium text-[var(--text-secondary)] block mb-1 capitalize">{key.replace(/([A-Z])/g, ' $1')}</label>
               <input
-                value={(form as Record<string, string>)[key]}
+                value={String((form as Record<string, unknown>)[key] ?? '')}
                 onChange={e => setForm(prev => ({ ...prev, [key]: e.target.value }))}
                 className="w-full bg-[var(--bg-surface)] border border-[var(--border-color)] rounded-xl px-4 py-2.5 text-sm text-[var(--text-primary)] outline-none focus:border-blue-500/50"
               />

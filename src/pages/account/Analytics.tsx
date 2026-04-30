@@ -5,6 +5,7 @@ import {
   AreaChart, Area, PieChart, Pie, Cell, BarChart, Bar,
   XAxis, YAxis, Tooltip, ResponsiveContainer, Legend
 } from 'recharts'
+import type { TooltipProps } from 'recharts'
 
 const COLORS = ['#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444', '#ec4899']
 
@@ -52,12 +53,13 @@ export default function Analytics() {
     </div>
   )
 
-  const customTooltip = ({ active, payload, label }: { active?: boolean; payload?: { value: number }[]; label?: string }) => {
+  const customTooltip = ({ active, payload, label }: TooltipProps<number, string>) => {
     if (active && payload?.length) {
+      const val = payload[0]?.value ?? 0
       return (
         <div className="bg-[var(--bg-surface)] border border-[var(--border-color)] rounded-xl p-3 text-sm shadow-xl">
           <p className="text-[var(--text-muted)] mb-1">{label}</p>
-          <p className="font-bold text-[var(--text-primary)]">{formatCurrency(payload[0].value)}</p>
+          <p className="font-bold text-[var(--text-primary)]">{formatCurrency(val)}</p>
         </div>
       )
     }
