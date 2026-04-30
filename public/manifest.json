@@ -1,0 +1,43 @@
+{
+  "name": "TechHub — Premium Tech Gadgets",
+  "short_name": "TechHub",
+  "description": "Shop the latest smartphones, laptops, headphones, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "lifestyle"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Shop Products",
+      "short_name": "Products",
+      "description": "Browse all products",
+      "url": "/products",
+      "icons": [{ "src": "/icons.svg", "sizes": "any" }]
+    },
+    {
+      "name": "My Cart",
+      "short_name": "Cart",
+      "description": "View your shopping cart",
+      "url": "/cart",
+      "icons": [{ "src": "/icons.svg", "sizes": "any" }]
+    },
+    {
+      "name": "Flash Deals",
+      "short_name": "Deals",
+      "description": "Today's best deals",
+      "url": "/deals",
+      "icons": [{ "src": "/icons.svg", "sizes": "any" }]
+    }
+  ]
+}

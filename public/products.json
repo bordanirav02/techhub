@@ -1,0 +1,2945 @@
+[
+  {
+    "id": "p001",
+    "name": "iPhone 15 Pro Max",
+    "brand": "Apple",
+    "category": "smartphones",
+    "subcategory": "flagship",
+    "price": 1199,
+    "originalPrice": 1299,
+    "discount": 8,
+    "rating": 4.9,
+    "reviewCount": 2847,
+    "stock": 15,
+    "isNew": true,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=600&q=80",
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Natural Titanium",
+        "hex": "#8B8B8B"
+      },
+      {
+        "name": "Blue Titanium",
+        "hex": "#5B7FA6"
+      },
+      {
+        "name": "White Titanium",
+        "hex": "#F0EDE8"
+      },
+      {
+        "name": "Black Titanium",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "description": "The iPhone 15 Pro Max features the A17 Pro chip, titanium design, and a 48MP main camera system with 5x optical zoom. The most pro iPhone ever.",
+    "features": [
+      "A17 Pro chip with 6-core GPU",
+      "48MP main camera with 5x optical zoom",
+      "Titanium design with textured matte glass back",
+      "Action Button - fully customizable",
+      "USB 3 speeds with USB-C",
+      "ProMotion 120Hz Super Retina XDR display",
+      "Emergency SOS via satellite",
+      "Crash Detection"
+    ],
+    "specs": {
+      "Display": "6.7\" Super Retina XDR, 2796 x 1290px",
+      "Processor": "Apple A17 Pro",
+      "RAM": "8GB",
+      "Battery": "4422 mAh",
+      "OS": "iOS 17",
+      "Camera": "48MP + 12MP + 12MP",
+      "Front Camera": "12MP TrueDepth",
+      "5G": "Yes",
+      "Weight": "221g"
+    },
+    "tags": [
+      "flagship",
+      "5g",
+      "pro",
+      "camera-phone"
+    ],
+    "badge": "Best Seller",
+    "bundleWith": [
+      "p021",
+      "p022",
+      "p023"
+    ]
+  },
+  {
+    "id": "p002",
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "subcategory": "flagship",
+    "price": 1099,
+    "originalPrice": 1299,
+    "discount": 15,
+    "rating": 4.8,
+    "reviewCount": 1923,
+    "stock": 22,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=600&q=80",
+      "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Titanium Black",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Titanium Gray",
+        "hex": "#5C5C5C"
+      },
+      {
+        "name": "Titanium Violet",
+        "hex": "#7B5EA7"
+      },
+      {
+        "name": "Titanium Yellow",
+        "hex": "#C8A800"
+      }
+    ],
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "description": "Galaxy S24 Ultra redefines mobile productivity with the built-in S Pen, 200MP camera, and the powerful Snapdragon 8 Gen 3 processor.",
+    "features": [
+      "200MP main camera with AI enhancements",
+      "Built-in S Pen with AI capabilities",
+      "Snapdragon 8 Gen 3 for Galaxy",
+      "6.8\" Dynamic AMOLED 2X, 120Hz",
+      "5000mAh battery with 45W charging",
+      "Titanium frame design",
+      "Galaxy AI features",
+      "Zoom Anywhere with 100x Space Zoom"
+    ],
+    "specs": {
+      "Display": "6.8\" Dynamic AMOLED 2X, 3088 x 1440px",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": "12GB",
+      "Battery": "5000 mAh",
+      "OS": "Android 14 (One UI 6.1)",
+      "Camera": "200MP + 12MP + 50MP + 10MP",
+      "Front Camera": "12MP",
+      "5G": "Yes",
+      "Weight": "232g"
+    },
+    "tags": [
+      "flagship",
+      "5g",
+      "s-pen",
+      "camera-phone"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p003",
+    "name": "Google Pixel 8 Pro",
+    "brand": "Google",
+    "category": "smartphones",
+    "subcategory": "flagship",
+    "price": 799,
+    "originalPrice": 999,
+    "discount": 20,
+    "rating": 4.7,
+    "reviewCount": 1245,
+    "stock": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=600&q=80",
+      "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&q=80",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Obsidian",
+        "hex": "#1A1A1A"
+      },
+      {
+        "name": "Porcelain",
+        "hex": "#F0EDE8"
+      },
+      {
+        "name": "Bay",
+        "hex": "#4A7DA8"
+      }
+    ],
+    "storage": [
+      "128GB",
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "description": "Google Pixel 8 Pro with Google Tensor G3 chip delivers the best of Google AI directly to your phone, with the most advanced Pixel Camera.",
+    "features": [
+      "Google Tensor G3 chip",
+      "50MP main + 48MP ultrawide + 48MP telephoto",
+      "Temperature sensor",
+      "Best Take and Magic Eraser",
+      "7 years of OS updates",
+      "6.7\" LTPO OLED 120Hz",
+      "Titan M2 security chip",
+      "Pro features in Google Photos"
+    ],
+    "specs": {
+      "Display": "6.7\" LTPO OLED, 2992 x 1344px",
+      "Processor": "Google Tensor G3",
+      "RAM": "12GB",
+      "Battery": "5050 mAh",
+      "OS": "Android 14",
+      "Camera": "50MP + 48MP + 48MP",
+      "Front Camera": "10.5MP",
+      "5G": "Yes",
+      "Weight": "213g"
+    },
+    "tags": [
+      "flagship",
+      "5g",
+      "ai",
+      "google"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p004",
+    "name": "MacBook Pro 16\" M3 Max",
+    "brand": "Apple",
+    "category": "laptops",
+    "subcategory": "professional",
+    "price": 3499,
+    "originalPrice": 3999,
+    "discount": 12,
+    "rating": 4.9,
+    "reviewCount": 892,
+    "stock": 8,
+    "isNew": true,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600&q=80",
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Space Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      }
+    ],
+    "storage": [
+      "512GB SSD",
+      "1TB SSD",
+      "2TB SSD",
+      "4TB SSD"
+    ],
+    "description": "MacBook Pro 16\" with M3 Max chip. The most powerful MacBook ever made, with up to 128GB unified memory and stunning Liquid Retina XDR display.",
+    "features": [
+      "M3 Max chip with 16-core CPU",
+      "40-core GPU with hardware ray tracing",
+      "Up to 128GB unified memory",
+      "16.2\" Liquid Retina XDR display",
+      "Up to 22 hours battery life",
+      "6-speaker sound system with Spatial Audio",
+      "Three Thunderbolt 4 ports",
+      "HDMI 2.1 and SD card slot"
+    ],
+    "specs": {
+      "Display": "16.2\" Liquid Retina XDR, 3456 x 2234px",
+      "Processor": "Apple M3 Max",
+      "RAM": "36GB Unified Memory",
+      "Storage": "512GB SSD",
+      "Battery": "Up to 22 hours",
+      "OS": "macOS Sonoma",
+      "Weight": "2.14 kg",
+      "Ports": "3x Thunderbolt 4, HDMI 2.1, SD Card, MagSafe 3"
+    },
+    "tags": [
+      "laptop",
+      "professional",
+      "m3",
+      "creative"
+    ],
+    "badge": "New"
+  },
+  {
+    "id": "p005",
+    "name": "Dell XPS 15 9530",
+    "brand": "Dell",
+    "category": "laptops",
+    "subcategory": "premium",
+    "price": 1899,
+    "originalPrice": 2199,
+    "discount": 14,
+    "rating": 4.6,
+    "reviewCount": 634,
+    "stock": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&q=80",
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Platinum Silver",
+        "hex": "#C0C0C0"
+      },
+      {
+        "name": "Frost White",
+        "hex": "#F5F5F5"
+      }
+    ],
+    "storage": [
+      "512GB SSD",
+      "1TB SSD",
+      "2TB SSD"
+    ],
+    "description": "Dell XPS 15 with Intel Core i9 and NVIDIA RTX 4070, featuring a stunning 15.6\" OLED display with 3.5K resolution.",
+    "features": [
+      "Intel Core i9-13900H processor",
+      "NVIDIA GeForce RTX 4070 8GB",
+      "15.6\" 3.5K OLED touchscreen",
+      "DDR5 RAM up to 64GB",
+      "60Wh battery with 130W charging",
+      "Thunderbolt 4 x2",
+      "1080p IR camera",
+      "CNC aluminum chassis"
+    ],
+    "specs": {
+      "Display": "15.6\" OLED 3456 x 2160px, 120Hz",
+      "Processor": "Intel Core i9-13900H",
+      "RAM": "32GB DDR5",
+      "GPU": "NVIDIA RTX 4070 8GB",
+      "Battery": "86Wh, up to 13 hours",
+      "OS": "Windows 11 Home",
+      "Weight": "1.86 kg",
+      "Ports": "2x Thunderbolt 4, USB-A, SD Card"
+    },
+    "tags": [
+      "laptop",
+      "gaming",
+      "oled",
+      "intel"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p006",
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "headphones",
+    "subcategory": "over-ear",
+    "price": 279,
+    "originalPrice": 399,
+    "discount": 30,
+    "rating": 4.8,
+    "reviewCount": 4521,
+    "stock": 45,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&q=80",
+      "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Platinum Silver",
+        "hex": "#C8C8C8"
+      }
+    ],
+    "description": "Industry-leading noise cancellation with Auto NC Optimizer, 30-hour battery, and multipoint connection. The ultimate wireless headphones.",
+    "features": [
+      "Industry-leading noise cancellation",
+      "30-hour battery life",
+      "Multipoint connection (2 devices)",
+      "Speak-to-Chat and Quick Attention",
+      "Hi-Res Audio certified",
+      "30mm driver units",
+      "360 Reality Audio",
+      "Comfortable fold-flat design"
+    ],
+    "specs": {
+      "Driver": "30mm",
+      "Frequency Response": "4Hz - 40kHz",
+      "Battery Life": "30 hours (ANC on)",
+      "Charging": "3h full, 3min = 3h",
+      "Bluetooth": "5.2",
+      "Weight": "250g",
+      "Codec": "LDAC, AAC, SBC",
+      "Microphones": "8 microphones"
+    },
+    "tags": [
+      "headphones",
+      "anc",
+      "wireless",
+      "premium"
+    ],
+    "badge": "Best Seller",
+    "compatibleWith": [
+      "p001",
+      "p002",
+      "p003"
+    ]
+  },
+  {
+    "id": "p007",
+    "name": "AirPods Pro (3rd Gen)",
+    "brand": "Apple",
+    "category": "headphones",
+    "subcategory": "earbuds",
+    "price": 219,
+    "originalPrice": 249,
+    "discount": 12,
+    "rating": 4.7,
+    "reviewCount": 6234,
+    "stock": 60,
+    "isNew": true,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&q=80",
+      "https://images.unsplash.com/photo-1545127398-14699f92334b?w=600&q=80",
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "description": "AirPods Pro 3rd generation with H2 chip delivers up to 2x more noise cancellation, Adaptive Audio, and Conversation Awareness.",
+    "features": [
+      "H2 chip with up to 2x more ANC",
+      "Adaptive Audio (ANC + Transparency blend)",
+      "Conversation Awareness",
+      "Personalized Spatial Audio",
+      "6 hours per charge (30h total with case)",
+      "MagSafe Charging Case",
+      "IPX4 water resistance",
+      "Touch control"
+    ],
+    "specs": {
+      "Chip": "Apple H2",
+      "Battery": "6h (30h with case)",
+      "Charging": "MagSafe, Lightning, USB-C",
+      "Bluetooth": "5.3",
+      "Weight": "5.3g per earbud",
+      "Water Resistance": "IPX4",
+      "Codec": "AAC",
+      "Microphones": "3 mics per earbud"
+    },
+    "tags": [
+      "earbuds",
+      "anc",
+      "apple",
+      "wireless"
+    ],
+    "badge": "New",
+    "compatibleWith": [
+      "p001",
+      "p004"
+    ]
+  },
+  {
+    "id": "p008",
+    "name": "Apple Watch Ultra 2",
+    "brand": "Apple",
+    "category": "smartwatches",
+    "subcategory": "premium",
+    "price": 749,
+    "originalPrice": 799,
+    "discount": 6,
+    "rating": 4.9,
+    "reviewCount": 1123,
+    "stock": 20,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600&q=80",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&q=80",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Natural Titanium",
+        "hex": "#8B8B8B"
+      },
+      {
+        "name": "Black Titanium",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "description": "The most rugged and capable Apple Watch ever. Designed for endurance sports and outdoor adventures with 60-hour battery life.",
+    "features": [
+      "49mm titanium case",
+      "S9 SiP chip",
+      "Up to 60-hour battery in Low Power Mode",
+      "Dual-frequency GPS (L1 and L5)",
+      "100m water resistance",
+      "Action button for quick access",
+      "Siren (up to 86 dB)",
+      "Ultra Wideband chip"
+    ],
+    "specs": {
+      "Case Size": "49mm",
+      "Material": "Titanium",
+      "Display": "2.1\" Retina LTPO OLED",
+      "Battery": "60h (Low Power), 36h (normal)",
+      "Water Resistance": "100m (EN 13319)",
+      "GPS": "L1 + L5",
+      "Connectivity": "LTE, Wi-Fi, Bluetooth 5.3",
+      "Weight": "61.4g"
+    },
+    "tags": [
+      "smartwatch",
+      "sport",
+      "titanium",
+      "gps"
+    ],
+    "badge": "New",
+    "compatibleWith": [
+      "p001",
+      "p004"
+    ]
+  },
+  {
+    "id": "p009",
+    "name": "Samsung Galaxy Watch 6 Classic",
+    "brand": "Samsung",
+    "category": "smartwatches",
+    "subcategory": "classic",
+    "price": 349,
+    "originalPrice": 429,
+    "discount": 19,
+    "rating": 4.6,
+    "reviewCount": 876,
+    "stock": 35,
+    "images": [
+      "https://images.unsplash.com/photo-1617043786394-f977fa12eddf?w=600&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&q=80",
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      },
+      {
+        "name": "Gold",
+        "hex": "#B8860B"
+      }
+    ],
+    "description": "Galaxy Watch 6 Classic with rotating bezel, advanced health tracking including blood pressure monitoring and sleep coaching.",
+    "features": [
+      "Rotating bezel for precise control",
+      "Advanced health monitoring suite",
+      "Blood pressure + ECG",
+      "Body composition analysis",
+      "Sleep coaching with GPT-powered insights",
+      "Sapphire Crystal glass",
+      "5ATM + IP68 + MIL-STD-810H",
+      "Wear OS 4 with One UI Watch 6"
+    ],
+    "specs": {
+      "Case Size": "47mm",
+      "Display": "1.5\" Super AMOLED, 480 x 480px",
+      "Battery": "590mAh, up to 2 days",
+      "Processor": "Exynos W930",
+      "RAM": "2GB",
+      "Storage": "16GB",
+      "OS": "Wear OS 4",
+      "Water Resistance": "5ATM + IP68"
+    },
+    "tags": [
+      "smartwatch",
+      "health",
+      "samsung",
+      "classic"
+    ],
+    "badge": "Sale",
+    "compatibleWith": [
+      "p002"
+    ]
+  },
+  {
+    "id": "p010",
+    "name": "iPad Pro 13\" M4",
+    "brand": "Apple",
+    "category": "tablets",
+    "subcategory": "pro",
+    "price": 1299,
+    "originalPrice": 1399,
+    "discount": 7,
+    "rating": 4.9,
+    "reviewCount": 1456,
+    "stock": 12,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600&q=80",
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&q=80",
+      "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Space Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Silver",
+        "hex": "#C0C0C0"
+      }
+    ],
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "description": "iPad Pro 13\" with the revolutionary M4 chip, Ultra Retina XDR OLED display, and the thinnest Apple product ever at 5.1mm.",
+    "features": [
+      "M4 chip with 10-core CPU",
+      "Ultra Retina XDR OLED tandem display",
+      "5.1mm — thinnest Apple product ever",
+      "Apple Pencil Pro support",
+      "Magic Keyboard with trackpad",
+      "Wi-Fi 6E + Optional 5G",
+      "TrueDepth front camera landscape",
+      "4-speaker audio"
+    ],
+    "specs": {
+      "Display": "13\" Ultra Retina XDR OLED, 2752 x 2064px",
+      "Processor": "Apple M4",
+      "RAM": "8GB",
+      "Battery": "Up to 10 hours",
+      "OS": "iPadOS 17",
+      "Camera": "12MP rear + 12MP TrueDepth",
+      "Weight": "579g (Wi-Fi)",
+      "Thickness": "5.1mm"
+    },
+    "tags": [
+      "tablet",
+      "pro",
+      "m4",
+      "oled"
+    ],
+    "badge": "New",
+    "bundleWith": [
+      "p004",
+      "p007"
+    ]
+  },
+  {
+    "id": "p011",
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "brand": "Samsung",
+    "category": "tablets",
+    "subcategory": "premium",
+    "price": 1099,
+    "originalPrice": 1199,
+    "discount": 8,
+    "rating": 4.7,
+    "reviewCount": 892,
+    "stock": 18,
+    "images": [
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600&q=80",
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Graphite",
+        "hex": "#4A4A4A"
+      },
+      {
+        "name": "Beige",
+        "hex": "#C8B89A"
+      }
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "description": "Galaxy Tab S9 Ultra features a massive 14.6\" Dynamic AMOLED 2X display with 120Hz and included S Pen for ultimate productivity.",
+    "features": [
+      "14.6\" Dynamic AMOLED 2X, 120Hz",
+      "Snapdragon 8 Gen 2 for Galaxy",
+      "S Pen included",
+      "DeX mode for desktop experience",
+      "11200mAh battery",
+      "IP68 water resistance",
+      "Wi-Fi 6E + 5G optional",
+      "Book Cover Keyboard support"
+    ],
+    "specs": {
+      "Display": "14.6\" Dynamic AMOLED 2X, 2960 x 1848px",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": "12GB",
+      "Battery": "11200mAh",
+      "OS": "Android 13 (One UI 5.1)",
+      "Camera": "13MP + 8MP rear",
+      "Weight": "732g",
+      "Dimensions": "326.4 x 208.6 x 5.5mm"
+    },
+    "tags": [
+      "tablet",
+      "samsung",
+      "s-pen",
+      "productivity"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p012",
+    "name": "ASUS ROG Phone 8 Pro",
+    "brand": "ASUS",
+    "category": "smartphones",
+    "subcategory": "gaming",
+    "price": 999,
+    "originalPrice": 1199,
+    "discount": 17,
+    "rating": 4.7,
+    "reviewCount": 654,
+    "stock": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Phantom Black",
+        "hex": "#0D0D0D"
+      },
+      {
+        "name": "Storm White",
+        "hex": "#EFEFEF"
+      }
+    ],
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "description": "Ultimate gaming smartphone with Snapdragon 8 Gen 3, 165Hz AMOLED display, and AeroActive Cooler 8 for sustained peak performance.",
+    "features": [
+      "Snapdragon 8 Gen 3 Mobile Platform",
+      "6.78\" AMOLED 165Hz display",
+      "6000mAh battery with 65W charging",
+      "AeroActive Cooler 8 included",
+      "Triple microphone setup",
+      "Ultrasonic AirTriggers",
+      "ROG Vision PMOLED side display",
+      "X Mode for gaming performance"
+    ],
+    "specs": {
+      "Display": "6.78\" AMOLED, 2400 x 1080px, 165Hz",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": "16GB LPDDR5X",
+      "Battery": "6000mAh",
+      "OS": "Android 14 (ROG UI)",
+      "Camera": "50MP + 13MP + 32MP",
+      "5G": "Yes",
+      "Weight": "225g"
+    },
+    "tags": [
+      "gaming",
+      "flagship",
+      "5g",
+      "asus"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p013",
+    "name": "LG 27GP950-B UltraGear",
+    "brand": "LG",
+    "category": "monitors",
+    "subcategory": "gaming",
+    "price": 549,
+    "originalPrice": 699,
+    "discount": 21,
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "stock": 28,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80",
+      "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=600&q=80",
+      "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "description": "27\" 4K UHD Nano IPS gaming monitor with 144Hz, G-Sync/FreeSync Premium Pro, and 1ms response time.",
+    "features": [
+      "27\" 4K UHD (3840 x 2160) Nano IPS",
+      "144Hz with 1ms GtG response",
+      "NVIDIA G-Sync + AMD FreeSync Premium Pro",
+      "98% DCI-P3 color coverage",
+      "HDR600 Certified",
+      "USB-C 90W Power Delivery",
+      "DisplayPort 1.4 + HDMI 2.1",
+      "AMD FreeSync Premium Pro"
+    ],
+    "specs": {
+      "Panel": "Nano IPS",
+      "Resolution": "3840 x 2160 (4K)",
+      "Refresh Rate": "144Hz",
+      "Response Time": "1ms (GtG)",
+      "Color Coverage": "98% DCI-P3",
+      "HDR": "VESA HDR600",
+      "Inputs": "HDMI 2.1 x2, DP 1.4, USB-C",
+      "Tilt": "-5° to 15°"
+    },
+    "tags": [
+      "monitor",
+      "4k",
+      "gaming",
+      "hdr"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p014",
+    "name": "Logitech MX Master 3S",
+    "brand": "Logitech",
+    "category": "accessories",
+    "subcategory": "mouse",
+    "price": 79,
+    "originalPrice": 99,
+    "discount": 20,
+    "rating": 4.8,
+    "reviewCount": 3456,
+    "stock": 80,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80",
+      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&q=80",
+      "https://images.unsplash.com/photo-1616763355603-9755a640a287?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Graphite",
+        "hex": "#4A4A4A"
+      },
+      {
+        "name": "Pale Gray",
+        "hex": "#D0D0D0"
+      },
+      {
+        "name": "Midnight Teal",
+        "hex": "#1A4A4A"
+      }
+    ],
+    "description": "The ultimate mouse for professionals. 8K DPI MagSpeed scroll wheel, quiet clicks, and 70-day battery life.",
+    "features": [
+      "8000 DPI Darkfield sensor",
+      "MagSpeed electromagnetic scroll wheel",
+      "Quiet Click technology (90% quieter)",
+      "USB-C charging, 70-day battery",
+      "Connect up to 3 devices",
+      "Flow cross-computer control",
+      "Customizable buttons via Logi Options+",
+      "Works on any surface including glass"
+    ],
+    "specs": {
+      "DPI": "200 - 8000 DPI",
+      "Buttons": "7 buttons",
+      "Battery": "500mAh, 70 days",
+      "Charging": "USB-C",
+      "Connectivity": "Bluetooth, USB Receiver",
+      "Weight": "141g",
+      "Dimensions": "124.9 x 84.3 x 51mm",
+      "OS": "Windows, macOS, Linux"
+    },
+    "tags": [
+      "mouse",
+      "productivity",
+      "wireless",
+      "ergonomic"
+    ],
+    "badge": "Best Seller",
+    "compatibleWith": [
+      "p004",
+      "p005"
+    ]
+  },
+  {
+    "id": "p015",
+    "name": "Keychron Q1 Pro",
+    "brand": "Keychron",
+    "category": "accessories",
+    "subcategory": "keyboard",
+    "price": 179,
+    "originalPrice": 199,
+    "discount": 10,
+    "rating": 4.8,
+    "reviewCount": 1876,
+    "stock": 42,
+    "images": [
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=600&q=80",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80",
+      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Carbon Black",
+        "hex": "#2D2D2D"
+      }
+    ],
+    "description": "QMK/VIA wireless mechanical keyboard with full aluminum body, RGB backlight, and Bluetooth + wired connection modes.",
+    "features": [
+      "Full CNC aluminum body",
+      "QMK/VIA programmable",
+      "Wireless Bluetooth 5.1 + USB-C wired",
+      "Hot-swappable PCB",
+      "South-facing RGB per-key",
+      "Gasket-mounted for a smooth, bouncy feel",
+      "75% layout (84 keys)",
+      "Compatible with Mac and Windows"
+    ],
+    "specs": {
+      "Layout": "75% (84 keys)",
+      "Switch": "Gateron Jupiter Red/Brown/Banana",
+      "Connectivity": "Bluetooth 5.1 + USB-C",
+      "Battery": "4000mAh",
+      "Backlight": "South-facing per-key RGB",
+      "Body": "CNC Aluminum",
+      "Weight": "1.65kg",
+      "OS": "macOS, Windows"
+    },
+    "tags": [
+      "keyboard",
+      "mechanical",
+      "wireless",
+      "qmk"
+    ],
+    "compatibleWith": [
+      "p004",
+      "p005"
+    ]
+  },
+  {
+    "id": "p016",
+    "name": "Sony A7 IV",
+    "brand": "Sony",
+    "category": "cameras",
+    "subcategory": "mirrorless",
+    "price": 2399,
+    "originalPrice": 2799,
+    "discount": 14,
+    "rating": 4.9,
+    "reviewCount": 987,
+    "stock": 10,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&q=80",
+      "https://images.unsplash.com/photo-1581591524425-c7e0978865fc?w=600&q=80",
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "description": "Sony Alpha A7 IV full-frame mirrorless camera with 33MP BSI-CMOS sensor, 4K 60p video, and AI-based real-time tracking.",
+    "features": [
+      "33MP full-frame BSI-CMOS sensor",
+      "4K 60p video (7K oversampled)",
+      "AI-based real-time tracking and face/eye AF",
+      "10fps continuous shooting",
+      "5-axis in-body stabilization (5.5 stops)",
+      "Dual UHS-II SD card slots",
+      "Weather-sealed body",
+      "Backlit LCD + OLED EVF"
+    ],
+    "specs": {
+      "Sensor": "33MP Full-Frame BSI-CMOS",
+      "ISO": "100-51200 (expandable to 204800)",
+      "Video": "4K 60p (7K oversampled), 4:2:2 10-bit",
+      "Stabilization": "5.5 stops IBIS",
+      "Autofocus": "759-point phase detection",
+      "Battery": "NP-FZ100, ~610 shots",
+      "Weather Sealing": "Yes",
+      "Weight": "658g (body only)"
+    },
+    "tags": [
+      "camera",
+      "mirrorless",
+      "full-frame",
+      "sony"
+    ],
+    "badge": "Best Seller"
+  },
+  {
+    "id": "p017",
+    "name": "DJI Osmo Action 4",
+    "brand": "DJI",
+    "category": "cameras",
+    "subcategory": "action-camera",
+    "price": 299,
+    "originalPrice": 349,
+    "discount": 14,
+    "rating": 4.7,
+    "reviewCount": 1543,
+    "stock": 55,
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&q=80",
+      "https://images.unsplash.com/photo-1581591524425-c7e0978865fc?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "description": "DJI Osmo Action 4 shoots stunning 4K 120fps footage with a 1/1.3\" CMOS sensor and up to 18m waterproofing without housing.",
+    "features": [
+      "4K 120fps video recording",
+      "1/1.3\" CMOS sensor",
+      "10-bit D-Log M and HLG",
+      "Waterproof to 18m without housing",
+      "-20°C to 45°C operating range",
+      "RockSteady 3.0 + HorizonSteady",
+      "Front + rear color displays",
+      "160-minute battery life"
+    ],
+    "specs": {
+      "Sensor": "1/1.3\" CMOS",
+      "Max Video": "4K/120fps",
+      "Photo": "12MP",
+      "Stabilization": "RockSteady 3.0 + HorizonSteady",
+      "Waterproof": "18m",
+      "Battery": "1770mAh (160 min at 1080/30)",
+      "Weight": "145g",
+      "Operating Temp": "-20°C to 45°C"
+    },
+    "tags": [
+      "camera",
+      "action-camera",
+      "waterproof",
+      "4k"
+    ]
+  },
+  {
+    "id": "p018",
+    "name": "Apple HomePod 2nd Gen",
+    "brand": "Apple",
+    "category": "smart-home",
+    "subcategory": "speaker",
+    "price": 249,
+    "originalPrice": 299,
+    "discount": 17,
+    "rating": 4.7,
+    "reviewCount": 876,
+    "stock": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1558203728-00f45181dd84?w=600&q=80",
+      "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=600&q=80",
+      "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Midnight",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#F5C518"
+      }
+    ],
+    "description": "HomePod delivers high-fidelity audio with Spatial Audio and intelligent audio that adapts to its placement, powered by S9 chip.",
+    "features": [
+      "High-excursion woofer with custom amplifier",
+      "Five beamforming tweeters",
+      "Computational audio with S9 chip",
+      "Spatial Audio with Dolby Atmos",
+      "Temperature and humidity sensor",
+      "Matter and Thread support",
+      "Room sensing technology",
+      "Stereo pair support"
+    ],
+    "specs": {
+      "Audio": "7-tweeter array + custom woofer",
+      "Chip": "Apple S9",
+      "Connectivity": "Wi-Fi 4, Bluetooth 5.0",
+      "Smart Home": "Matter, Thread, HomeKit",
+      "Microphones": "6-microphone array",
+      "Height": "168mm",
+      "Weight": "2.3kg",
+      "Power": "AC adapter"
+    },
+    "tags": [
+      "speaker",
+      "smart-home",
+      "apple",
+      "spatial-audio"
+    ],
+    "compatibleWith": [
+      "p001",
+      "p004",
+      "p010"
+    ]
+  },
+  {
+    "id": "p019",
+    "name": "Philips Hue Starter Kit",
+    "brand": "Philips",
+    "category": "smart-home",
+    "subcategory": "lighting",
+    "price": 149,
+    "originalPrice": 199,
+    "discount": 25,
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "stock": 50,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1558203728-00f45181dd84?w=600&q=80",
+      "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=600&q=80",
+      "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "description": "Transform your home with Philips Hue Smart Lighting. Starter kit includes bridge, 3 color bulbs, and works with Alexa, Google Home, and Apple HomeKit.",
+    "features": [
+      "3x E26 Hue Color Bulbs (1100lm each)",
+      "Hue Bridge v2",
+      "16 million colors + whites",
+      "Works with Alexa, Google Home, HomeKit",
+      "Bluetooth + Zigbee connectivity",
+      "Automations and schedules",
+      "Hue Sync for entertainment",
+      "Remote access and control"
+    ],
+    "specs": {
+      "Bulbs": "3x A19 E26 806lm",
+      "Color": "16 million colors + 2700K-6500K white",
+      "Connectivity": "Zigbee + Bluetooth",
+      "Smart Home": "Alexa, Google, HomeKit, Matter",
+      "Lifespan": "25000 hours",
+      "Wattage": "9W per bulb",
+      "Bridge Range": "Up to 50 bulbs",
+      "App": "iOS & Android"
+    },
+    "tags": [
+      "smart-home",
+      "lighting",
+      "rgb",
+      "voice-control"
+    ],
+    "badge": "Best Seller"
+  },
+  {
+    "id": "p020",
+    "name": "Anker 733 Power Bank (GaNPrime)",
+    "brand": "Anker",
+    "category": "accessories",
+    "subcategory": "power-bank",
+    "price": 59,
+    "originalPrice": 79,
+    "discount": 25,
+    "rating": 4.7,
+    "reviewCount": 3456,
+    "stock": 120,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1616763355603-9755a640a287?w=600&q=80",
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=600&q=80",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Phantom Black",
+        "hex": "#0D0D0D"
+      }
+    ],
+    "description": "2-in-1 power bank and charger. 10,000mAh with 65W GaNPrime technology — charge your MacBook and phone simultaneously.",
+    "features": [
+      "10,000mAh capacity",
+      "65W USB-C output for laptops",
+      "GaNPrime technology",
+      "2-in-1 wall charger + power bank",
+      "PowerIQ 4.0",
+      "Charges MacBook Air at full speed",
+      "LED display showing battery %",
+      "Foldable AC prongs"
+    ],
+    "specs": {
+      "Capacity": "10,000mAh",
+      "Max Output": "65W (USB-C)",
+      "Ports": "2x USB-C, 1x USB-A",
+      "Technology": "GaNPrime PowerIQ 4.0",
+      "Input": "65W via USB-C",
+      "Weight": "214g",
+      "Dimensions": "96.5 x 52.5 x 28.5mm",
+      "Certifications": "CE, FCC, RoHS"
+    },
+    "tags": [
+      "power-bank",
+      "charging",
+      "portable",
+      "anker"
+    ],
+    "badge": "Best Seller",
+    "compatibleWith": [
+      "p001",
+      "p002",
+      "p004",
+      "p005",
+      "p010"
+    ]
+  },
+  {
+    "id": "p021",
+    "name": "Apple MagSafe Charger",
+    "brand": "Apple",
+    "category": "accessories",
+    "subcategory": "charger",
+    "price": 29,
+    "originalPrice": 39,
+    "discount": 26,
+    "rating": 4.5,
+    "reviewCount": 12456,
+    "stock": 200,
+    "images": [
+      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&q=80",
+      "https://images.unsplash.com/photo-1616763355603-9755a640a287?w=600&q=80",
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "description": "Apple MagSafe Charger with USB-C cable provides fast 15W wireless charging when attached magnetically to iPhone 12 or later.",
+    "features": [
+      "15W fast wireless charging",
+      "Magnetic alignment for perfect positioning",
+      "USB-C connector (USB-C power adapter required)",
+      "Compatible with iPhone 12 and later",
+      "1m cable length",
+      "Qi compatible (7.5W for older iPhone)"
+    ],
+    "specs": {
+      "Output": "Up to 15W",
+      "Connector": "USB-C",
+      "Cable Length": "1 meter",
+      "Compatibility": "iPhone 12+, MagSafe accessories",
+      "Qi": "Yes (7.5W)",
+      "Weight": "22g"
+    },
+    "tags": [
+      "charger",
+      "wireless",
+      "magsafe",
+      "apple"
+    ],
+    "compatibleWith": [
+      "p001",
+      "p007",
+      "p008"
+    ]
+  },
+  {
+    "id": "p022",
+    "name": "Spigen iPhone 15 Pro Max Case",
+    "brand": "Spigen",
+    "category": "accessories",
+    "subcategory": "phone-case",
+    "price": 19,
+    "originalPrice": 29,
+    "discount": 34,
+    "rating": 4.6,
+    "reviewCount": 8765,
+    "stock": 300,
+    "images": [
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80",
+      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&q=80",
+      "https://images.unsplash.com/photo-1616763355603-9755a640a287?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Midnight Green",
+        "hex": "#1A3A2A"
+      },
+      {
+        "name": "Clear",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Rose Gold",
+        "hex": "#B76E79"
+      }
+    ],
+    "description": "Military-grade drop protection with Air Cushion Technology in a slim profile. Compatible with MagSafe wireless charging.",
+    "features": [
+      "Military-grade drop protection (MIL-STD-810G)",
+      "Air Cushion Technology at corners",
+      "MagSafe compatible",
+      "Raised lips for screen + camera protection",
+      "Dual-layer design",
+      "Precise cutouts",
+      "Wireless charging compatible",
+      "6-foot drop protection tested"
+    ],
+    "specs": {
+      "Protection": "MIL-STD-810G",
+      "Material": "TPU + PC",
+      "Compatibility": "iPhone 15 Pro Max",
+      "MagSafe": "Yes",
+      "Weight": "28g",
+      "Thickness": "1.5mm"
+    },
+    "tags": [
+      "case",
+      "protection",
+      "iphone",
+      "magsafe"
+    ],
+    "compatibleWith": [
+      "p001"
+    ]
+  },
+  {
+    "id": "p023",
+    "name": "Belkin Screen Protector",
+    "brand": "Belkin",
+    "category": "accessories",
+    "subcategory": "screen-protector",
+    "price": 14,
+    "originalPrice": 19,
+    "discount": 26,
+    "rating": 4.4,
+    "reviewCount": 5432,
+    "stock": 500,
+    "images": [
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=600&q=80",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80",
+      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Clear",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "description": "Anti-microbial glass screen protector with EasyAlign installation tray for iPhone 15 Pro Max. Fingerprint resistant and scratch-proof.",
+    "features": [
+      "Tempered glass with anti-microbial coating",
+      "EasyAlign installation tray included",
+      "Scratch-resistant hardness (9H)",
+      "Fingerprint and oil resistant",
+      "Ultra-thin (0.29mm)",
+      "Edge-to-edge coverage",
+      "Touch sensitivity maintained",
+      "Clear as glass optical clarity"
+    ],
+    "specs": {
+      "Material": "Tempered Glass",
+      "Hardness": "9H",
+      "Thickness": "0.29mm",
+      "Compatibility": "iPhone 15 Pro Max",
+      "Anti-microbial": "Yes",
+      "Oleophobic": "Yes"
+    },
+    "tags": [
+      "screen-protector",
+      "glass",
+      "iphone",
+      "protection"
+    ],
+    "compatibleWith": [
+      "p001"
+    ]
+  },
+  {
+    "id": "p024",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 12",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "subcategory": "business",
+    "price": 1699,
+    "originalPrice": 1999,
+    "discount": 15,
+    "rating": 4.8,
+    "reviewCount": 567,
+    "stock": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600&q=80",
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "storage": [
+      "512GB SSD",
+      "1TB SSD",
+      "2TB SSD"
+    ],
+    "description": "World's lightest 14\" business laptop at under 1.12kg. Intel Core Ultra, 14\" 2.8K OLED, and military-grade durability.",
+    "features": [
+      "Intel Core Ultra 7 165H",
+      "14\" 2.8K OLED 120Hz touch display",
+      "Under 1.12kg weight",
+      "MIL-SPEC 810H certified",
+      "4G LTE + Wi-Fi 6E",
+      "8-speaker Dolby Atmos audio",
+      "Webcam with Privacy Shutter",
+      "Up to 15h battery life"
+    ],
+    "specs": {
+      "Display": "14\" 2.8K OLED, 2880 x 1800px, 120Hz",
+      "Processor": "Intel Core Ultra 7 165H",
+      "RAM": "32GB LPDDR5",
+      "Battery": "57Wh, up to 15 hours",
+      "OS": "Windows 11 Pro",
+      "Weight": "1.12kg",
+      "Ports": "2x Thunderbolt 4, 2x USB-A, HDMI 2.1"
+    },
+    "tags": [
+      "laptop",
+      "business",
+      "ultrabook",
+      "lenovo"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p025",
+    "name": "Bose QuietComfort Ultra Earbuds",
+    "brand": "Bose",
+    "category": "headphones",
+    "subcategory": "earbuds",
+    "price": 249,
+    "originalPrice": 299,
+    "discount": 17,
+    "rating": 4.8,
+    "reviewCount": 2134,
+    "stock": 40,
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&q=80",
+      "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=600&q=80",
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "White Smoke",
+        "hex": "#F5F5F0"
+      },
+      {
+        "name": "Moonstone Blue",
+        "hex": "#6B8CAE"
+      }
+    ],
+    "description": "Bose QuietComfort Ultra Earbuds with Immersive Audio, Custom Tune technology, and world-class noise cancellation in a premium compact design.",
+    "features": [
+      "World-class noise cancellation",
+      "Immersive Audio with head tracking",
+      "Custom Tune — personalized sound",
+      "6h battery + 18h with charging case",
+      "IPX4 water resistance",
+      "Aware Mode with ActiveSense",
+      "Bluetooth 5.3",
+      "3 sizes of eartips and fins included"
+    ],
+    "specs": {
+      "Battery": "6h (30h with case)",
+      "Charging": "USB-C (1.5h full charge)",
+      "Bluetooth": "5.3",
+      "Water Resistance": "IPX4",
+      "Weight": "6.24g per earbud",
+      "Driver": "5.3mm custom",
+      "Codec": "AAC, SBC",
+      "App": "Bose Music app"
+    },
+    "tags": [
+      "earbuds",
+      "anc",
+      "bose",
+      "wireless"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p026",
+    "name": "ASUS ProArt PA279CRV 4K Monitor",
+    "brand": "ASUS",
+    "category": "monitors",
+    "subcategory": "professional",
+    "price": 699,
+    "originalPrice": 899,
+    "discount": 22,
+    "rating": 4.8,
+    "reviewCount": 423,
+    "stock": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80",
+      "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=600&q=80",
+      "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Dark Gray",
+        "hex": "#2D2D2D"
+      }
+    ],
+    "description": "27\" 4K professional monitor with 99% Adobe RGB, factory calibrated, Thunderbolt 4 daisy chaining, and built-in KVM switch.",
+    "features": [
+      "27\" 4K UHD IPS panel",
+      "99% Adobe RGB / 99% DCI-P3",
+      "Calman Verified factory calibration",
+      "Thunderbolt 4 (90W PD) daisy chaining",
+      "Built-in KVM switch",
+      "USB hub (4x USB-A, 1x USB-B)",
+      "ErgoStand with full adjustment",
+      "Flicker-free + Low Blue Light"
+    ],
+    "specs": {
+      "Panel": "27\" IPS",
+      "Resolution": "3840 x 2160 (4K)",
+      "Color Gamut": "99% Adobe RGB, 99% DCI-P3",
+      "Refresh Rate": "60Hz",
+      "Response Time": "5ms (GtG)",
+      "Thunderbolt 4": "Yes (90W PD)",
+      "Inputs": "HDMI 2.0, DP 1.4, Thunderbolt 4 x2",
+      "Height Adjust": "150mm"
+    },
+    "tags": [
+      "monitor",
+      "4k",
+      "professional",
+      "color-accurate"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p027",
+    "name": "Razer BlackShark V2 Pro",
+    "brand": "Razer",
+    "category": "headphones",
+    "subcategory": "gaming",
+    "price": 149,
+    "originalPrice": 179,
+    "discount": 17,
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "stock": 55,
+    "images": [
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&q=80",
+      "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "description": "Razer BlackShark V2 Pro wireless gaming headset with 50mm TriForce Titanium drivers, detachable HyperClear Super Wideband Mic, and 70h battery.",
+    "features": [
+      "50mm TriForce Titanium drivers",
+      "HyperClear Super Wideband detachable mic",
+      "70-hour battery life",
+      "2.4GHz + Bluetooth 5.2",
+      "SmartSwitch for seamless switching",
+      "Razer TriForce THX Spatial Audio",
+      "FlowKnit memory foam cushions",
+      "25dB noise reduction"
+    ],
+    "specs": {
+      "Drivers": "50mm TriForce Titanium",
+      "Frequency": "12 - 28000 Hz",
+      "Battery": "70 hours",
+      "Connectivity": "2.4GHz + Bluetooth 5.2",
+      "Microphone": "Super Wideband, cardioid",
+      "Weight": "320g",
+      "Codec": "THX Spatial, Dolby Atmos",
+      "OS": "PC, PS5, Switch, Mobile"
+    },
+    "tags": [
+      "headphones",
+      "gaming",
+      "wireless",
+      "razer"
+    ]
+  },
+  {
+    "id": "p028",
+    "name": "Microsoft Surface Pro 10",
+    "brand": "Microsoft",
+    "category": "tablets",
+    "subcategory": "2-in-1",
+    "price": 1099,
+    "originalPrice": 1299,
+    "discount": 15,
+    "rating": 4.6,
+    "reviewCount": 765,
+    "stock": 22,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=600&q=80",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Platinum",
+        "hex": "#C0C0C0"
+      },
+      {
+        "name": "Sapphire",
+        "hex": "#0047AB"
+      },
+      {
+        "name": "Forest",
+        "hex": "#1A4A2A"
+      }
+    ],
+    "storage": [
+      "256GB SSD",
+      "512GB SSD",
+      "1TB SSD"
+    ],
+    "description": "Surface Pro 10 with Intel Core Ultra, 13\" PixelSense Flow display at 120Hz, and integrated Microsoft Copilot AI assistance.",
+    "features": [
+      "Intel Core Ultra 5 or 7 processors",
+      "13\" PixelSense Flow 120Hz touchscreen",
+      "Microsoft Copilot+ AI features",
+      "Neural Processing Unit (NPU)",
+      "USB 4 / Thunderbolt 4",
+      "Wi-Fi 6E + optional 5G",
+      "Nano SIM slot (5G models)",
+      "Up to 19h battery life"
+    ],
+    "specs": {
+      "Display": "13\" PixelSense Flow, 2880 x 1920px, 120Hz",
+      "Processor": "Intel Core Ultra 7 165U",
+      "RAM": "16GB LPDDR5",
+      "Battery": "50Wh, up to 19 hours",
+      "OS": "Windows 11 Home",
+      "Weight": "879g (tablet only)",
+      "Ports": "2x USB 4/Thunderbolt 4, Surface Connect"
+    },
+    "tags": [
+      "tablet",
+      "2-in-1",
+      "microsoft",
+      "windows"
+    ],
+    "badge": "New"
+  },
+  {
+    "id": "p029",
+    "name": "Garmin Fenix 7 Pro",
+    "brand": "Garmin",
+    "category": "smartwatches",
+    "subcategory": "sport",
+    "price": 499,
+    "originalPrice": 599,
+    "discount": 17,
+    "rating": 4.8,
+    "reviewCount": 1123,
+    "stock": 28,
+    "images": [
+      "https://images.unsplash.com/photo-1617043786394-f977fa12eddf?w=600&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&q=80",
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Carbon Gray",
+        "hex": "#4A4A4A"
+      },
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "description": "Premium multisport GPS watch with LED flashlight, built-in solar charging, 37-day battery life, and advanced training metrics.",
+    "features": [
+      "Built-in LED flashlight",
+      "Solar charging + 37-day battery",
+      "Multi-band GPS",
+      "Advanced training metrics",
+      "Pulse Ox blood oxygen monitoring",
+      "Recovery advisor and HRV status",
+      "47mm titanium or fiber-reinforced polymer",
+      "100m water resistance"
+    ],
+    "specs": {
+      "Case Size": "47mm",
+      "Battery": "37 days (solar); 22 days (GPS)",
+      "GPS": "Multi-band (L1 + L5)",
+      "Water Resistance": "10 ATM (100m)",
+      "Display": "1.3\" transflective MIP",
+      "Connectivity": "Bluetooth, ANT+, Wi-Fi",
+      "Health": "HR, SpO2, stress, sleep",
+      "Weight": "73g (titanium)"
+    },
+    "tags": [
+      "smartwatch",
+      "sport",
+      "gps",
+      "garmin"
+    ]
+  },
+  {
+    "id": "p030",
+    "name": "Samsung 980 Pro NVMe SSD 2TB",
+    "brand": "Samsung",
+    "category": "storage",
+    "subcategory": "ssd",
+    "price": 149,
+    "originalPrice": 229,
+    "discount": 35,
+    "rating": 4.8,
+    "reviewCount": 4567,
+    "stock": 90,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=600&q=80",
+      "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=600&q=80",
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "storage": [
+      "500GB",
+      "1TB",
+      "2TB"
+    ],
+    "description": "Samsung 980 Pro PCIe 4.0 NVMe SSD with 7000MB/s sequential read, optimized for PS5 and high-end PC builds.",
+    "features": [
+      "PCIe 4.0 NVMe M.2 interface",
+      "7000 MB/s sequential read",
+      "5100 MB/s sequential write",
+      "Samsung V-NAND 3-bit MLC",
+      "PlayStation 5 compatible",
+      "Nickel-coated controller + Aluminum heat spreader",
+      "AES 256-bit hardware encryption",
+      "5-year limited warranty"
+    ],
+    "specs": {
+      "Interface": "PCIe 4.0 x4 NVMe 1.3c",
+      "Form Factor": "M.2 2280",
+      "Sequential Read": "7,000 MB/s",
+      "Sequential Write": "5,100 MB/s",
+      "NAND": "Samsung V-NAND 3-bit MLC",
+      "Encryption": "AES 256-bit",
+      "Warranty": "5 years",
+      "PS5 Compatible": "Yes"
+    },
+    "tags": [
+      "ssd",
+      "storage",
+      "nvme",
+      "ps5"
+    ],
+    "badge": "Best Seller"
+  },
+  {
+    "id": "p031",
+    "name": "Corsair Vengeance RGB 32GB DDR5",
+    "brand": "Corsair",
+    "category": "storage",
+    "subcategory": "ram",
+    "price": 89,
+    "originalPrice": 119,
+    "discount": 25,
+    "rating": 4.7,
+    "reviewCount": 2134,
+    "stock": 75,
+    "images": [
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=600&q=80",
+      "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=600&q=80",
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "description": "Corsair Vengeance RGB 32GB (2x16GB) DDR5-6000 with iCUE RGB lighting, Intel XMP 3.0, and AMD EXPO support for maximum performance.",
+    "features": [
+      "DDR5-6000 MHz (2x16GB kit)",
+      "Intel XMP 3.0 certified",
+      "AMD EXPO optimized",
+      "iCUE per-LED RGB control",
+      "Aluminum heat spreader",
+      "On-Die ECC error correction",
+      "Plug N Play for compatible platforms",
+      "Lifetime warranty"
+    ],
+    "specs": {
+      "Capacity": "32GB (2x16GB)",
+      "Speed": "DDR5-6000",
+      "Latency": "CL30-36-36-76",
+      "Voltage": "1.4V",
+      "Form Factor": "DIMM",
+      "XMP": "3.0",
+      "EXPO": "Yes",
+      "Warranty": "Lifetime"
+    },
+    "tags": [
+      "ram",
+      "ddr5",
+      "rgb",
+      "corsair"
+    ]
+  },
+  {
+    "id": "p032",
+    "name": "Elgato Stream Deck MK.2",
+    "brand": "Elgato",
+    "category": "accessories",
+    "subcategory": "streaming",
+    "price": 129,
+    "originalPrice": 149,
+    "discount": 13,
+    "rating": 4.8,
+    "reviewCount": 3456,
+    "stock": 60,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1616763355603-9755a640a287?w=600&q=80",
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=600&q=80",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "description": "Elgato Stream Deck MK.2 with 15 customizable LCD keys. Control OBS, Spotify, Twitch and more with one tap. Detachable faceplate.",
+    "features": [
+      "15 customizable LCD keys (72 x 72px each)",
+      "Drag-and-drop Stream Deck app",
+      "Detachable USB-C cable",
+      "Swappable faceplate",
+      "Folder system for unlimited actions",
+      "Works with OBS, Streamlabs, Twitch",
+      "Plugin store with 100s of integrations",
+      "Windows + macOS support"
+    ],
+    "specs": {
+      "Keys": "15 fully customizable LCD keys",
+      "Display": "72 x 72px per key",
+      "Connectivity": "USB-C (cable included)",
+      "OS": "Windows 10+, macOS 10.15+",
+      "Dimensions": "118 x 84 x 21mm",
+      "Weight": "175g",
+      "Software": "Stream Deck app (free)",
+      "Tilt": "Adjustable stand"
+    },
+    "tags": [
+      "streaming",
+      "productivity",
+      "elgato",
+      "content-creator"
+    ],
+    "badge": "Best Seller"
+  },
+  {
+    "id": "p033",
+    "name": "Samsung Odyssey Neo G9 49\"",
+    "brand": "Samsung",
+    "category": "monitors",
+    "subcategory": "ultrawide",
+    "price": 1299,
+    "originalPrice": 1799,
+    "discount": 28,
+    "rating": 4.7,
+    "reviewCount": 567,
+    "stock": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80",
+      "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=600&q=80",
+      "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "description": "49\" Dual UHD Quantum Mini LED curved gaming monitor with 240Hz refresh rate, 1ms response time, and HDR2000 peak brightness.",
+    "features": [
+      "49\" DQHD (5120 x 1440) resolution",
+      "Quantum Mini LED (2048 zones)",
+      "240Hz + 1ms GtG response",
+      "HDR2000 (VESA DisplayHDR 2000)",
+      "2000:1 static contrast ratio",
+      "1000R curvature",
+      "AMD FreeSync Premium Pro",
+      "DisplayPort 1.4 + HDMI 2.1"
+    ],
+    "specs": {
+      "Panel": "VA Quantum Mini LED",
+      "Resolution": "5120 x 1440 (DQHD)",
+      "Refresh Rate": "240Hz",
+      "Response Time": "1ms GtG",
+      "Peak Brightness": "2000 nits",
+      "Curvature": "1000R",
+      "Local Dimming": "2048 zones",
+      "Inputs": "DP 1.4, HDMI 2.1 x2, USB 3.0 hub"
+    },
+    "tags": [
+      "monitor",
+      "ultrawide",
+      "gaming",
+      "mini-led"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p034",
+    "name": "Xiaomi 14 Ultra",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "subcategory": "flagship",
+    "price": 899,
+    "originalPrice": 1099,
+    "discount": 18,
+    "rating": 4.7,
+    "reviewCount": 892,
+    "stock": 30,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=600&q=80",
+      "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "description": "Xiaomi 14 Ultra with Leica quad camera system, Snapdragon 8 Gen 3, and 90W wireless charging defines ultimate camera smartphone performance.",
+    "features": [
+      "Leica Summilux quad-camera system",
+      "1\" Sony LYT-900 sensor for main camera",
+      "Snapdragon 8 Gen 3",
+      "5000mAh + 90W wireless HyperCharge",
+      "6.73\" LTPO AMOLED 120Hz",
+      "Xiaomi HyperOS",
+      "IP68 water resistance",
+      "Photography Kit compatible"
+    ],
+    "specs": {
+      "Display": "6.73\" LTPO AMOLED, 3200 x 1440px, 1-120Hz",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": "16GB LPDDR5X",
+      "Battery": "5000mAh + 90W wireless",
+      "OS": "Xiaomi HyperOS (Android 14)",
+      "Camera": "50MP (1\") + 50MP + 50MP + 50MP",
+      "5G": "Yes",
+      "Weight": "219g"
+    },
+    "tags": [
+      "flagship",
+      "camera-phone",
+      "leica",
+      "5g"
+    ],
+    "badge": "New"
+  },
+  {
+    "id": "p035",
+    "name": "Sennheiser HD 660S2",
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "subcategory": "over-ear",
+    "price": 349,
+    "originalPrice": 449,
+    "discount": 22,
+    "rating": 4.8,
+    "reviewCount": 876,
+    "stock": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&q=80",
+      "https://images.unsplash.com/photo-1545127398-14699f92334b?w=600&q=80",
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "description": "Open-back audiophile headphones with low-distortion transducers, 150Ω impedance, and reference-grade sound for critical listening.",
+    "features": [
+      "Open-back design for natural soundstage",
+      "Low-distortion transducer system",
+      "Optimized for low-impedance amplifiers",
+      "150Ω impedance",
+      "Velour earpads for comfort",
+      "Detachable OFC cable (6.35mm + 4.4mm)",
+      "Made in Ireland",
+      "10 Hz - 41,000 Hz frequency range"
+    ],
+    "specs": {
+      "Type": "Open-back, supra-aural",
+      "Impedance": "150 Ω",
+      "Frequency": "10 - 41,000 Hz",
+      "THD": "< 0.04% @ 1 kHz",
+      "SPL": "104 dB",
+      "Weight": "260g",
+      "Cable": "6.35mm (3m) + 4.4mm balanced",
+      "Origin": "Made in Ireland"
+    },
+    "tags": [
+      "headphones",
+      "audiophile",
+      "open-back",
+      "wired"
+    ]
+  },
+  {
+    "id": "p036",
+    "name": "NVIDIA RTX 4090 FE",
+    "brand": "NVIDIA",
+    "category": "storage",
+    "subcategory": "gpu",
+    "price": 1599,
+    "originalPrice": 1999,
+    "discount": 20,
+    "rating": 4.9,
+    "reviewCount": 1234,
+    "stock": 5,
+    "isNew": false,
+    "images": [
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=600&q=80",
+      "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=600&q=80",
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black/Silver",
+        "hex": "#76B900"
+      }
+    ],
+    "description": "NVIDIA GeForce RTX 4090 Founders Edition with 16,384 CUDA cores, 24GB GDDR6X, and Ada Lovelace architecture for the ultimate gaming experience.",
+    "features": [
+      "16,384 CUDA cores (Ada Lovelace)",
+      "24GB GDDR6X memory",
+      "DLSS 3 with Frame Generation",
+      "4th Gen Tensor Cores",
+      "3rd Gen RT Cores",
+      "AV1 hardware encode/decode",
+      "HDMI 2.1a + DisplayPort 1.4a x3",
+      "450W TDP with dual 16-pin power"
+    ],
+    "specs": {
+      "Architecture": "Ada Lovelace",
+      "CUDA Cores": "16,384",
+      "VRAM": "24GB GDDR6X",
+      "Memory Bandwidth": "1008 GB/s",
+      "TDP": "450W",
+      "Outputs": "HDMI 2.1a + 3x DP 1.4a",
+      "NVLink": "No",
+      "PCIe": "4.0 x16"
+    },
+    "tags": [
+      "gpu",
+      "gaming",
+      "workstation",
+      "nvidia"
+    ],
+    "badge": "Low Stock"
+  },
+  {
+    "id": "p037",
+    "name": "OnePlus 12",
+    "brand": "OnePlus",
+    "category": "smartphones",
+    "subcategory": "flagship",
+    "price": 699,
+    "originalPrice": 799,
+    "discount": 13,
+    "rating": 4.6,
+    "reviewCount": 1345,
+    "stock": 38,
+    "images": [
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=600&q=80",
+      "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=600&q=80",
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Flowy Emerald",
+        "hex": "#1A4A2A"
+      },
+      {
+        "name": "Silky Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "description": "OnePlus 12 with Snapdragon 8 Gen 3, Hasselblad camera tuning, 100W SuperVOOC charging, and the fastest OxygenOS experience.",
+    "features": [
+      "Snapdragon 8 Gen 3 flagship chip",
+      "Hasselblad 3rd gen camera system",
+      "100W SUPERVOOC (0→100% in 26 min)",
+      "50W AirVOOC wireless charging",
+      "6.82\" 2K ProXDR LTPO 120Hz display",
+      "5400mAh battery",
+      "IP65 water resistance",
+      "Alert Slider"
+    ],
+    "specs": {
+      "Display": "6.82\" LTPO AMOLED, 3168 x 1440px, 120Hz",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": "12GB LPDDR5T",
+      "Battery": "5400mAh + 100W wired",
+      "OS": "OxygenOS 14 (Android 14)",
+      "Camera": "50MP (LYT-808) + 48MP + 64MP",
+      "5G": "Yes",
+      "Weight": "220g"
+    },
+    "tags": [
+      "flagship",
+      "fast-charging",
+      "5g",
+      "oneplus"
+    ]
+  },
+  {
+    "id": "p038",
+    "name": "SteelSeries Arctis Nova Pro Wireless",
+    "brand": "SteelSeries",
+    "category": "headphones",
+    "subcategory": "gaming",
+    "price": 279,
+    "originalPrice": 349,
+    "discount": 20,
+    "rating": 4.7,
+    "reviewCount": 1234,
+    "stock": 32,
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "description": "SteelSeries Arctis Nova Pro Wireless multi-system gaming headset with active noise cancellation, swappable batteries, and 360° Spatial Audio.",
+    "features": [
+      "Active Noise Cancellation",
+      "Infinity battery system (dual batteries)",
+      "Multi-system: PS5, PC, Mobile simultaneously",
+      "2.4GHz + Bluetooth 5.0",
+      "360° Spatial Audio",
+      "Premium magnetic drivers",
+      "Retractable ClearCast Gen 2 mic",
+      "GameDAC Gen 2 base station"
+    ],
+    "specs": {
+      "Battery": "22h per charge (infinite with swap)",
+      "Connectivity": "2.4GHz + Bluetooth 5.0",
+      "Drivers": "40mm Neodymium",
+      "ANC": "Yes",
+      "Microphone": "Retractable ClearCast Gen 2",
+      "Platforms": "PS5, PS4, PC, Switch, Mobile",
+      "Weight": "338g",
+      "Codec": "360° Spatial Audio"
+    },
+    "tags": [
+      "headphones",
+      "gaming",
+      "anc",
+      "multi-platform"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p039",
+    "name": "Logitech G Pro X Superlight 2",
+    "brand": "Logitech",
+    "category": "accessories",
+    "subcategory": "gaming-mouse",
+    "price": 129,
+    "originalPrice": 159,
+    "discount": 19,
+    "rating": 4.9,
+    "reviewCount": 2876,
+    "stock": 65,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=600&q=80",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80",
+      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Pink",
+        "hex": "#FFB6C1"
+      }
+    ],
+    "description": "Logitech G Pro X Superlight 2 at just 60g with HERO 2 sensor at 32000 DPI. The lightest wired and wireless esports mouse ever.",
+    "features": [
+      "60g ultralight design",
+      "HERO 2 sensor — 32000 DPI",
+      "LIGHTSPEED wireless (1ms)",
+      "95h battery life",
+      "Zero additive PTFE feet",
+      "5 programmable buttons",
+      "Ambidextrous design",
+      "POWERPLAY wireless charging compatible"
+    ],
+    "specs": {
+      "Sensor": "HERO 2",
+      "DPI": "100 - 32,000",
+      "IPS": "500",
+      "Battery": "95 hours",
+      "Connectivity": "LIGHTSPEED + USB-C",
+      "Weight": "60g",
+      "Buttons": "5",
+      "POWERPLAY": "Yes"
+    },
+    "tags": [
+      "gaming",
+      "mouse",
+      "esports",
+      "wireless"
+    ],
+    "badge": "Best Seller"
+  },
+  {
+    "id": "p040",
+    "name": "Jabra Evolve2 85",
+    "brand": "Jabra",
+    "category": "headphones",
+    "subcategory": "business",
+    "price": 299,
+    "originalPrice": 449,
+    "discount": 33,
+    "rating": 4.7,
+    "reviewCount": 1567,
+    "stock": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1545127398-14699f92334b?w=600&q=80",
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Beige",
+        "hex": "#C8B89A"
+      }
+    ],
+    "description": "Jabra Evolve2 85 professional wireless headset with advanced ANC, 6 mic call technology, and 37-hour battery for enterprise use.",
+    "features": [
+      "Advanced Active Noise Cancellation",
+      "6-microphone conference call technology",
+      "37-hour battery life",
+      "Busy Light for focus signaling",
+      "Multipoint (3 devices)",
+      "UC-certified for Microsoft Teams",
+      "Adaptive ANC with 10 mic array",
+      "Wireless charging pad included"
+    ],
+    "specs": {
+      "Battery": "37 hours",
+      "ANC": "Advanced ANC",
+      "Microphones": "10 mics (6 for calls, 4 for ANC)",
+      "Connectivity": "Bluetooth 5.0 + USB-A dongle",
+      "Codec": "SBC, AAC",
+      "Weight": "340g",
+      "Charging": "Wireless + USB-C",
+      "Certifications": "Microsoft Teams, UC"
+    },
+    "tags": [
+      "headphones",
+      "business",
+      "anc",
+      "conference"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p041",
+    "name": "DJI Mini 4 Pro",
+    "brand": "DJI",
+    "category": "cameras",
+    "subcategory": "drone",
+    "price": 759,
+    "originalPrice": 959,
+    "discount": 21,
+    "rating": 4.8,
+    "reviewCount": 892,
+    "stock": 18,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&q=80",
+      "https://images.unsplash.com/photo-1581591524425-c7e0978865fc?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Gray",
+        "hex": "#6B6B6B"
+      }
+    ],
+    "description": "DJI Mini 4 Pro under 249g with 4K 60fps HDR, 360° obstacle sensing, and 34-minute flight time. No FAA registration required.",
+    "features": [
+      "Under 249g — no FAA registration",
+      "4K 60fps HDR + 4K 100fps slow-mo",
+      "360° omnidirectional obstacle sensing",
+      "34-minute max flight time",
+      "1/1.3\" CMOS sensor",
+      "10-bit D-Log M recording",
+      "Master Shots automated filming",
+      "ActiveTrack 360° subject tracking"
+    ],
+    "specs": {
+      "Weight": "249g",
+      "Camera": "1/1.3\" CMOS",
+      "Video": "4K/60fps HDR",
+      "Photo": "48MP",
+      "Flight Time": "34 min",
+      "Range": "20km (FCC)",
+      "Obstacle Sensing": "360° omnidirectional",
+      "Wind Resistance": "Level 6 (10.7 m/s)"
+    },
+    "tags": [
+      "drone",
+      "camera",
+      "4k",
+      "dji"
+    ],
+    "badge": "New"
+  },
+  {
+    "id": "p042",
+    "name": "Anker USB-C Hub 12-in-1",
+    "brand": "Anker",
+    "category": "accessories",
+    "subcategory": "hub",
+    "price": 59,
+    "originalPrice": 79,
+    "discount": 25,
+    "rating": 4.6,
+    "reviewCount": 4567,
+    "stock": 150,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80",
+      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&q=80",
+      "https://images.unsplash.com/photo-1616763355603-9755a640a287?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Gray",
+        "hex": "#6B6B6B"
+      }
+    ],
+    "description": "Anker 12-in-1 USB-C hub with dual 4K HDMI, 100W PD pass-through, 10Gbps USB-C, SD/microSD cards, and Ethernet port.",
+    "features": [
+      "12-in-1 connectivity",
+      "Dual 4K@60Hz HDMI outputs",
+      "100W USB-C Power Delivery",
+      "10Gbps USB-C data port",
+      "4x USB-A 3.0 (5Gbps)",
+      "SD + microSD card reader",
+      "1Gbps Ethernet",
+      "3.5mm audio jack"
+    ],
+    "specs": {
+      "HDMI": "2x 4K@60Hz",
+      "USB-C PD": "100W pass-through",
+      "USB-C Data": "10Gbps",
+      "USB-A": "4x USB 3.0",
+      "Card Reader": "SD + microSD",
+      "Ethernet": "1Gbps",
+      "Audio": "3.5mm combo jack",
+      "Weight": "98g"
+    },
+    "tags": [
+      "hub",
+      "usb-c",
+      "dock",
+      "productivity"
+    ],
+    "badge": "Best Seller",
+    "compatibleWith": [
+      "p004",
+      "p005",
+      "p010",
+      "p024"
+    ]
+  },
+  {
+    "id": "p043",
+    "name": "Samsung T7 Shield Portable SSD 2TB",
+    "brand": "Samsung",
+    "category": "storage",
+    "subcategory": "portable-ssd",
+    "price": 119,
+    "originalPrice": 169,
+    "discount": 30,
+    "rating": 4.8,
+    "reviewCount": 3456,
+    "stock": 85,
+    "images": [
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=600&q=80",
+      "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=600&q=80",
+      "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#C8B89A"
+      },
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Blue",
+        "hex": "#1E3A8A"
+      }
+    ],
+    "storage": [
+      "1TB",
+      "2TB",
+      "4TB"
+    ],
+    "description": "Samsung T7 Shield 2TB portable SSD with IP65 dust/water resistance, rubber armor drop protection (3m), and 1050 MB/s read.",
+    "features": [
+      "1,050 MB/s read / 1,000 MB/s write",
+      "IP65 rated dust and water resistance",
+      "Rubber armor for 3m drop protection",
+      "Dynamic Thermal Guard",
+      "USB 3.2 Gen 2 (10Gbps)",
+      "USB-C (cable + USB-C to A adapter)",
+      "AES 256-bit hardware encryption",
+      "Compatible with PC, Mac, Android"
+    ],
+    "specs": {
+      "Capacity": "2TB",
+      "Read Speed": "1,050 MB/s",
+      "Write Speed": "1,000 MB/s",
+      "Interface": "USB 3.2 Gen 2",
+      "Protection": "IP65 + 3m drop",
+      "Encryption": "AES 256-bit",
+      "Weight": "98.5g",
+      "Dimensions": "88.1 x 59.8 x 13.4mm"
+    },
+    "tags": [
+      "ssd",
+      "portable",
+      "storage",
+      "rugged"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p044",
+    "name": "Philips 65\" OLED+908 4K TV",
+    "brand": "Philips",
+    "category": "tvs",
+    "subcategory": "oled",
+    "price": 1799,
+    "originalPrice": 2499,
+    "discount": 28,
+    "rating": 4.8,
+    "reviewCount": 432,
+    "stock": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80",
+      "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=600&q=80",
+      "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "description": "Philips 65\" OLED+908 with 4K Ambilight 4-sided immersive lighting, OLED EX panel, Bowers & Wilkins soundbar, and P5 AI engine.",
+    "features": [
+      "4-sided Ambilight immersive lighting",
+      "MLA OLED EX panel",
+      "Bowers & Wilkins built-in soundbar (80W)",
+      "P5 AI Perfect Picture Engine",
+      "Dolby Vision + HDR10+ + HLG",
+      "Dolby Atmos + DTS:X",
+      "Android TV with Google TV UI",
+      "120Hz with HDMI 2.1 (4K 120fps)"
+    ],
+    "specs": {
+      "Screen": "65\" MLA OLED EX",
+      "Resolution": "3840 x 2160 (4K)",
+      "HDR": "Dolby Vision, HDR10+, HLG",
+      "Refresh Rate": "120Hz",
+      "Audio": "Bowers & Wilkins, 80W, Dolby Atmos",
+      "HDMI": "4x HDMI 2.1",
+      "Smart TV": "Google TV",
+      "Ambilight": "4-sided"
+    },
+    "tags": [
+      "tv",
+      "oled",
+      "ambilight",
+      "4k"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p045",
+    "name": "Apple TV 4K (3rd Gen)",
+    "brand": "Apple",
+    "category": "tvs",
+    "subcategory": "streaming",
+    "price": 129,
+    "originalPrice": 149,
+    "discount": 13,
+    "rating": 4.7,
+    "reviewCount": 2345,
+    "stock": 70,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80",
+      "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=600&q=80",
+      "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "description": "Apple TV 4K streams in 4K HDR at 60fps with A15 Bionic chip. Includes the redesigned Siri Remote with clickpad and USB-C.",
+    "features": [
+      "A15 Bionic chip",
+      "4K HDR at 60fps",
+      "Dolby Vision + HDR10+",
+      "Dolby Atmos audio",
+      "Thread network support for HomeKit",
+      "Siri Remote with clickpad",
+      "Wi-Fi 6 + Ethernet (Wi-Fi only model also)",
+      "HDMI 2.1 ARC support"
+    ],
+    "specs": {
+      "Chip": "A15 Bionic",
+      "Video": "4K 60fps, Dolby Vision, HDR10+",
+      "Audio": "Dolby Atmos, DTS",
+      "Storage": "64GB or 128GB",
+      "Wi-Fi": "Wi-Fi 6",
+      "Bluetooth": "5.0",
+      "HDMI": "2.1 ARC",
+      "Thread": "Yes"
+    },
+    "tags": [
+      "streaming",
+      "apple",
+      "4k",
+      "dolby-vision"
+    ],
+    "compatibleWith": [
+      "p018",
+      "p019"
+    ]
+  },
+  {
+    "id": "p046",
+    "name": "Logitech C920x HD Pro Webcam",
+    "brand": "Logitech",
+    "category": "accessories",
+    "subcategory": "webcam",
+    "price": 59,
+    "originalPrice": 99,
+    "discount": 40,
+    "rating": 4.7,
+    "reviewCount": 15678,
+    "stock": 200,
+    "isBestSeller": true,
+    "images": [
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80",
+      "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&q=80",
+      "https://images.unsplash.com/photo-1616763355603-9755a640a287?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "description": "Logitech C920x Full HD 1080p/30fps webcam with autofocus, stereo microphones, and background replacement for professional video calls.",
+    "features": [
+      "1080p/30fps or 720p/60fps video",
+      "Carl Zeiss optics with autofocus",
+      "Built-in dual stereo microphones",
+      "H.264 hardware encoding",
+      "Background replacement (Logi Capture)",
+      "Universal clip fits monitors/laptops",
+      "USB-A plug-and-play",
+      "Privacy shutter compatible"
+    ],
+    "specs": {
+      "Video": "1080p/30fps, 720p/60fps",
+      "FOV": "78° diagonal",
+      "Focus": "Autofocus",
+      "Microphones": "Dual stereo",
+      "Interface": "USB-A",
+      "Compatibility": "Windows 7+, macOS 10.10+",
+      "Cable Length": "1.5m",
+      "Weight": "162g"
+    },
+    "tags": [
+      "webcam",
+      "video-call",
+      "streaming",
+      "logitech"
+    ],
+    "badge": "Best Seller"
+  },
+  {
+    "id": "p047",
+    "name": "Nothing Phone (2a)",
+    "brand": "Nothing",
+    "category": "smartphones",
+    "subcategory": "mid-range",
+    "price": 349,
+    "originalPrice": 399,
+    "discount": 13,
+    "rating": 4.5,
+    "reviewCount": 1234,
+    "stock": 45,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&q=80",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Blue",
+        "hex": "#1E3A8A"
+      }
+    ],
+    "storage": [
+      "128GB",
+      "256GB"
+    ],
+    "description": "Nothing Phone (2a) with unique transparent back, Glyph Interface lighting, Dimensity 7200 Pro, and 5000mAh with 45W charging.",
+    "features": [
+      "Unique transparent design with Glyph Interface",
+      "11-zone Glyph lights for notifications",
+      "Dimensity 7200 Pro",
+      "50MP + 50MP camera system",
+      "6.7\" AMOLED 120Hz display",
+      "5000mAh + 45W charging",
+      "Nothing OS 2.5",
+      "IP54 splash resistance"
+    ],
+    "specs": {
+      "Display": "6.7\" AMOLED, 2412 x 1080px, 120Hz",
+      "Processor": "Dimensity 7200 Pro",
+      "RAM": "8GB",
+      "Battery": "5000mAh + 45W",
+      "OS": "Nothing OS 2.5 (Android 14)",
+      "Camera": "50MP + 50MP",
+      "5G": "Yes",
+      "Weight": "190g"
+    },
+    "tags": [
+      "smartphone",
+      "mid-range",
+      "unique-design",
+      "5g"
+    ],
+    "badge": "New"
+  },
+  {
+    "id": "p048",
+    "name": "ASUS ZenBook Pro 14 OLED",
+    "brand": "ASUS",
+    "category": "laptops",
+    "subcategory": "creator",
+    "price": 1299,
+    "originalPrice": 1699,
+    "discount": 24,
+    "rating": 4.7,
+    "reviewCount": 678,
+    "stock": 22,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600&q=80",
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Tech Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Inkwell Gray",
+        "hex": "#4A4A4A"
+      }
+    ],
+    "storage": [
+      "512GB SSD",
+      "1TB SSD"
+    ],
+    "description": "ASUS ZenBook Pro 14 OLED with Intel Core Ultra 9, NVIDIA RTX 4060, OLED 2.8K 120Hz display, and haptic touchpad with number pad.",
+    "features": [
+      "Intel Core Ultra 9 185H",
+      "NVIDIA GeForce RTX 4060 8GB",
+      "14.5\" 2.8K OLED 120Hz 100% DCI-P3",
+      "ASUS Dial for creative control",
+      "1080p IR webcam with AI noise cancel",
+      "PCIe 4.0 SSD + dual M.2 slots",
+      "Thunderbolt 4 + Wi-Fi 6E",
+      "65Wh battery + 140W GaN charger"
+    ],
+    "specs": {
+      "Display": "14.5\" OLED, 2880 x 1800px, 120Hz",
+      "Processor": "Intel Core Ultra 9 185H",
+      "RAM": "32GB LPDDR5",
+      "GPU": "RTX 4060 8GB",
+      "Battery": "65Wh, ~10h video",
+      "OS": "Windows 11 Home",
+      "Weight": "1.65kg",
+      "Ports": "Thunderbolt 4 x2, USB-A x2, HDMI 2.1"
+    },
+    "tags": [
+      "laptop",
+      "creator",
+      "oled",
+      "asus"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p049",
+    "name": "Sony LinkBuds S",
+    "brand": "Sony",
+    "category": "headphones",
+    "subcategory": "earbuds",
+    "price": 149,
+    "originalPrice": 199,
+    "discount": 25,
+    "rating": 4.6,
+    "reviewCount": 2345,
+    "stock": 55,
+    "images": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&q=80",
+      "https://images.unsplash.com/photo-1545127398-14699f92334b?w=600&q=80",
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      },
+      {
+        "name": "Ecru White",
+        "hex": "#F5F0E8"
+      },
+      {
+        "name": "Earth Blue",
+        "hex": "#1E3A5F"
+      }
+    ],
+    "description": "Sony LinkBuds S with integrated noise cancellation and ambient sound mode in the world's smallest ANC earbuds (4.8g each).",
+    "features": [
+      "World's smallest and lightest ANC earbuds",
+      "Integrated Processor V1",
+      "Sony DSEE Extreme upscaling",
+      "LDAC Hi-Res Audio Wireless",
+      "IPX4 water resistance",
+      "6h + 14h with charging case",
+      "Speak-to-Chat and Adaptive Sound Control",
+      "360 Reality Audio with personalization"
+    ],
+    "specs": {
+      "Weight": "4.8g per earbud",
+      "Battery": "6h (20h with case)",
+      "Bluetooth": "5.2",
+      "Water Resistance": "IPX4",
+      "Codec": "LDAC, AAC, SBC",
+      "Driver": "5mm dynamic",
+      "ANC": "Yes (Integrated V1)",
+      "Charging": "USB-C"
+    },
+    "tags": [
+      "earbuds",
+      "anc",
+      "sony",
+      "compact"
+    ],
+    "badge": "Sale"
+  },
+  {
+    "id": "p050",
+    "name": "Razer Blade 16 (2024)",
+    "brand": "Razer",
+    "category": "laptops",
+    "subcategory": "gaming",
+    "price": 2999,
+    "originalPrice": 3499,
+    "discount": 14,
+    "rating": 4.8,
+    "reviewCount": 456,
+    "stock": 10,
+    "isNew": true,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80",
+      "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600&q=80",
+      "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "storage": [
+      "1TB SSD",
+      "2TB SSD"
+    ],
+    "description": "Razer Blade 16 with Intel Core i9-14900HX, NVIDIA RTX 4090 Laptop, dual-mode 16\" display (4K OLED or FHD 240Hz) in premium CNC aluminum.",
+    "features": [
+      "Intel Core i9-14900HX (24 cores)",
+      "NVIDIA GeForce RTX 4090 16GB Laptop",
+      "Dual-mode display: 4K OLED / FHD 240Hz",
+      "64GB DDR5-5600 (upgradeable)",
+      "CNC aluminum unibody chassis",
+      "Windows Hello IR camera",
+      "Thunderbolt 5 + SD Express card",
+      "330W charging"
+    ],
+    "specs": {
+      "Display": "16\" Dual-Mode OLED/FHD, 240Hz",
+      "Processor": "Intel Core i9-14900HX",
+      "RAM": "64GB DDR5",
+      "GPU": "RTX 4090 16GB Laptop",
+      "Battery": "95.2Wh",
+      "OS": "Windows 11 Home",
+      "Weight": "2.47kg",
+      "Ports": "TB5 x2, USB-A x3, HDMI 2.1, SD"
+    },
+    "tags": [
+      "laptop",
+      "gaming",
+      "oled",
+      "flagship"
+    ],
+    "badge": "New"
+  }
+]
